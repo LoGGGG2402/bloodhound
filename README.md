@@ -1,0 +1,2 @@
+# bloodhound
+deploy boodhound kali
